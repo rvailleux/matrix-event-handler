@@ -1,0 +1,17 @@
+{
+    "name": "example-app",
+    "version": "0.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "preinstall": "npm install ../.."
+    },
+    "author": "",
+    "license": "Apache 2.0",
+    "dependencies": {
+        "cli-color": "^1.0.0",
+        "dotenv": "^16.3.1",
+        "matrix-js-sdk": "^28.1.0",
+        "url-regex": "^5.0.0"
+    }
+}
